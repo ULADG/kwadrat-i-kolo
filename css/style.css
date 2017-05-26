@@ -1,3 +1,80 @@
-body{
-    background-color: red
+#outer {
+  position: relative;
+  width: 302px;
+  height: 302px;
+  background-color: white;
+  
+}
+#inner {
+  position: absolute;
+  width: 98px;
+  height: 98px;
+  top: 1px;
+  left: 1px;
+  background-color: red;
+}
+#inner2 {
+  position: absolute;
+  width: 98px;
+  height: 98px;
+  top: 1px;
+  left: 101px;
+  background-color: blue;
+}
+#inner3 {
+  position: absolute;
+  width: 98px;
+  height: 98px;
+  top: 1px;
+  left: 201px;
+  background-color: green;
+}
+
+#inner4 {
+  position: absolute;
+  width: 98px;
+  height: 98px;
+  top: 101px;
+  left: 1px;
+  background-color: yellow;
+}
+#inner5 {
+  position: absolute;
+  width: 98px;
+  height: 98px;
+  top: 101px;
+  left: 101px;
+  background-color: black;
+}
+#inner6 {
+  position: absolute;
+  width: 98px;
+  height: 98px;
+  top: 101px;
+  left: 201px;
+  background-color: orange;
+}
+#inner7 {
+  position: absolute;
+  width: 98px;
+  height: 98px;
+  top: 201px;
+  left: 1px;
+  background-color: violet;
+}
+#inner8 {
+  position: absolute;
+  width: 98px;
+  height: 98px;
+  top: 201px;
+  left: 101px;
+  background-color: grey;
+}
+#inner9 {
+  position: absolute;
+  width: 98px;
+  height: 98px;
+  top: 201px;
+  left: 201px;
+  background-color: pink;
 }
